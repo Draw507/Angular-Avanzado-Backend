@@ -1,0 +1,1 @@
+module.exports.SEED = 'ng-express-seed';
